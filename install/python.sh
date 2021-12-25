@@ -1,3 +1,6 @@
+#!/bin/bash
+set -eux
+
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
 
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.profile
