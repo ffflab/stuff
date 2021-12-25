@@ -1,4 +1,9 @@
 #!/bin/bash
+
+#
+# curl https://raw.githubusercontent.com/ffflab/stuff/master/install/python.sh | bash
+# 
+
 set -eux
 
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
