@@ -2,7 +2,7 @@
 set -eux
 
 #
-# curl {} | bash
+# curl https://raw.githubusercontent.com/ffflab/stuff/master/install/gcloud-ubuntu.sh | bash
 #
 
 #
