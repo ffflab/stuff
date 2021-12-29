@@ -1,5 +1,6 @@
 #!/bin/bash
-set -euxo pipefail
+set -eux
+# set -euxo pipefail
 
 #
 # curl https://raw.githubusercontent.com/ffflab/stuff/master/install/gcloud-ubuntu.sh | bash
